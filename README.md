@@ -5,7 +5,7 @@ This application is a random passwrd generator, its randomly generates passwords
 *STILL UNDER CONSTRUCTION*
 
 Installtion:
-Visit 
+Visit https://fasidayohana.github.io/Password-Generator/
 
 to either fork or clome the repository located on GitHub
 
